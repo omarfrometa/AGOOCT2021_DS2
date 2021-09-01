@@ -1,0 +1,12 @@
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\EntityFramework.dll
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\EntityFramework.xml
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

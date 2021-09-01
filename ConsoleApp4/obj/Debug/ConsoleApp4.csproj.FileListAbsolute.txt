@@ -1,0 +1,8 @@
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\ofrometa\source\repos\DS2\ConsoleApp4\bin\Debug\students.txt
