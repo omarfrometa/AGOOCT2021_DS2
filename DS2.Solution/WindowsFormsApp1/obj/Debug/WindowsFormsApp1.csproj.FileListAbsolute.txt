@@ -1,0 +1,16 @@
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
