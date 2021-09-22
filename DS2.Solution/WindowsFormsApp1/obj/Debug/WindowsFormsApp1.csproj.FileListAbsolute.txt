@@ -14,3 +14,4 @@ C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\Entit
 C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\ofrometa\source\repos\DS2\DS2.Solution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RoleForm.resources

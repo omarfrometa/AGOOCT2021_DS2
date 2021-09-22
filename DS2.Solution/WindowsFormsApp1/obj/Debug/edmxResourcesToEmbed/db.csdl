@@ -14,5 +14,16 @@
   </EntityType>
   <EntityContainer Name="DS2Entities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="User" EntityType="Self.User" />
+    <EntitySet Name="Role" EntityType="DS2.BO.Role" />
   </EntityContainer>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Enabled" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
 </Schema>

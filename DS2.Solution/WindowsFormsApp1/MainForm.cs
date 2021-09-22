@@ -16,5 +16,11 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void rolesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var roleForm = new RoleForm();
+            roleForm.Show();
+        }
     }
 }
